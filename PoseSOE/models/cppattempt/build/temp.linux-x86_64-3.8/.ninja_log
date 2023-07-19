@@ -1,0 +1,4 @@
+# ninja log v5
+0	13537	1641215408	/home/lw/DATA/PR/Code_previous_soe/models/cppattempt/build/temp.linux-x86_64-3.8/Point.o	791652dfbc626564
+0	15439	1641215410	/home/lw/DATA/PR/Code_previous_soe/models/cppattempt/build/temp.linux-x86_64-3.8/point_api.o	c59d2fe6e0525d37
+0	16035	1641215411	/home/lw/DATA/PR/Code_previous_soe/models/cppattempt/build/temp.linux-x86_64-3.8/Point_cuda.o	4799258266cc3bc9
