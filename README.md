@@ -12,7 +12,16 @@ LiDAR-based localization using universal encoding and memory-aware regression
 ## Data
 
 We support the Oxford Radar RobotCar, vReLoc, and NCLT datasets right now.
-
+```
+Oxford data_root
+├── 2019-01-11-14-02-26-radar-oxford-10k
+│   ├── velodyne_left
+│       ├── xxx.bin
+├── pose_stats.txt
+├── pose_max_min.txt
+├── train_split.txt
+├── test_split.txt
+```
 
 ## Run
 ### Oxford, vReLoc, NCLT
